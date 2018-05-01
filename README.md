@@ -16,4 +16,4 @@ All this without actually getting a credit check. As we know the loan process ca
 -- The model will calculate the covariance of each entry and see which attributes play a mojor role in the prediction. <br />
 -- The model will be tested against various other regressiion models such as lasso, ridge etc. <br />
 
-You can find the proposal for the project on Youtube: 
+You can find the proposal for the project on Youtube: https://youtu.be/XHuh3DyZiM0
